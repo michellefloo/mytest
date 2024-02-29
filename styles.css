@@ -1,0 +1,105 @@
+body {
+  font-family: Inter, sans-serif;
+  line-height: 1.6;
+  padding: 10px;
+  margin: 0;
+  background-color: #ffffff;
+}
+
+p {
+  font-size: 12px;
+}
+
+.container {
+  padding-top: 80px !important;
+  color: #174060;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.btn-primary,
+.btn-secondary {
+  font-size: 15px;
+  background-color: #174060 !important;
+  color: white !important;
+  font-size: 13px;
+}
+
+.form-group,
+.form-check-label {
+  text-align: center;
+  font-size: 13px;
+}
+
+.heading {
+  color: #174060;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading h2 {
+  text-align: center;
+  font-size: 16px;
+}
+
+.copyright p {
+  margin-left: 70px;
+  color: #174060;
+  font-size: 10px;
+  text-align: center;
+}
+
+.product-id p {
+  font-size: 13px;
+  color: #174060;
+  text-align: center;
+}
+
+.product-description {
+  margin-top: 20px;
+  color: #174060;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-image img {
+  flex: 1;
+  margin-right: 20px;
+  height: auto;
+  display: block;
+  width: 200px;
+}
+
+.product-content {
+  text-align: left;
+  line-height: 1;
+}
+
+.judul p {
+  font-size: 13px;
+}
+
+.komposisi p {
+  font-size: x-small;
+}
+
+.information {
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 10px;
+}
+
+.btn-outline-primary {
+  font-size: 20px !important;
+  width: 100% !important;
+  border-color: #174060 !important;
+  color: #174060 !important;
+}
